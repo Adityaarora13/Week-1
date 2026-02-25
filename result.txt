@@ -1,0 +1,8 @@
+Weather Data Analysis — Gandhinagar (Last 10 Days)
+
+Temperature Average: 33.5
+Temperature Median: 33.5
+Humidity Average: 65.9
+Humidity Median: 65.5
+AQI Average: 132.9
+AQI Median: 132.5
